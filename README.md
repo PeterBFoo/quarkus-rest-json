@@ -1,4 +1,4 @@
-# quarkus-rest-json Project
+# quarkus-rest-json (quarkus-getting-started)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
